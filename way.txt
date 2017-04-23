@@ -1,0 +1,12 @@
+menu : signup, login, wxit
+
+signup : admin -> sudah ada (admin, admin)
+	user -> buat sendiri	
+		usr, pw, nama, nim, kelas, ruang
+	file -> database.txt
+
+login : admin : melihat user
+		melihat ruangan  kosaong atau tidak
+		iya/tidak pinjam ruangan
+	user  : melihat ruangan ksong atau tidak
+		melihat ruanganan 
